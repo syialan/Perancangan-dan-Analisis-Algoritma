@@ -83,7 +83,7 @@
                         <form action="" method="post">
                             <label for="berangkat">Waktu Berangkat</label>
                             <input type="time" name="berangkat" class="form-control mb-2" step="2" value="08:52:45">
-                            <label for="tujuan">Jumlah Detik sampai ke Tujuan</label>
+                            <label for="tujuan">Waktu sampai ke Tujuan</label>
                             <input type="time" name="tujuan" class="form-control mb-2" min="1" step="2" value="12:15:10">
                             <button type="submit" name="soal_2" class="btn btn-success btn-sm">Hitung</button>
                         </form>
